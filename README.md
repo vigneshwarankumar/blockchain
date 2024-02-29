@@ -1,6 +1,7 @@
-## Foundry
+## IT's my practiced code
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+
+**It's is a practiced version of partrickscollins foundry course**
 
 Foundry consists of:
 
