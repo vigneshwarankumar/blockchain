@@ -1,0 +1,8 @@
+fundme:testaddfundertothearray() (gas: 99703)
+fundme:testcheaperfunder() (gas: 488214)
+fundme:testchectbalanceeth() (gas: 102452)
+fundme:testmultiplefunder() (gas: 489344)
+fundme:testowner() (gas: 5700)
+fundme:testownerwithdraw() (gas: 99881)
+fundme:testversion() (gas: 13612)
+fundme:testwithdrawsinglefunder() (gas: 87776)
